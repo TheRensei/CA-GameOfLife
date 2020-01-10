@@ -12,3 +12,6 @@ Basic implementation of Life in 2D and 3D
 
 
 Unity3D Version 2019.2.6f1
+
+My video with some explanation
+https://youtu.be/ycVMTZT1ZBk
