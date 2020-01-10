@@ -8,7 +8,7 @@ Basic implementation of Life in 2D and 3D
 - Q - Colouring mode 0
 - W - Colouring mode 1
 - E - Colouring mode 2
-- r - Colouring mode 3
+- R - Colouring mode 3
 
 
 Unity3D Version 2019.2.6f1
